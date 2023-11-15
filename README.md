@@ -7,6 +7,9 @@ The Movie Recommendation System is a web-based platform designed to help movie e
 
 Dataset Source=https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
+![Web capture_15-11-2023_104920_localhost](https://github.com/kalishwaran/Movie/assets/121051159/32f0e915-9fd7-47cd-a5b1-19b0f9ecf920)
+
+
 
 
 
