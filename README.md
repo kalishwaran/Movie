@@ -9,9 +9,8 @@ Dataset Source=https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ![Web capture_15-11-2023_104920_localhost](https://github.com/kalishwaran/Movie/assets/121051159/32f0e915-9fd7-47cd-a5b1-19b0f9ecf920)
 
-![Web capture_15-11-2023_104920_localhost](https://github.com/kalishwaran/Movie/assets/121051159/a5a2b6f2-abdb-4ae6-9015-a0c549b4c367)
 
-
+![Web capture_15-11-2023_142525_localhost](https://github.com/kalishwaran/Movie/assets/121051159/27050af1-c17f-4da5-bbd9-626841461ff4)
 
 
 
